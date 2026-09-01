@@ -1,7 +1,7 @@
 {
   "id": "just-sync",
   "name": "Just Sync",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "minAppVersion": "1.13.0",
   "description": "안정적이고 간단히 사용 가능한 저장소 동기화.",
   "author": "dio",
